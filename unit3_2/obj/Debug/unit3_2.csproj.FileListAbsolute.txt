@@ -1,0 +1,8 @@
+D:\1project\source\repos\unit3_2\unit3_2\bin\Debug\unit3_2.exe.config
+D:\1project\source\repos\unit3_2\unit3_2\bin\Debug\unit3_2.exe
+D:\1project\source\repos\unit3_2\unit3_2\bin\Debug\unit3_2.pdb
+D:\1project\source\repos\unit3_2\unit3_2\obj\Debug\unit3_2.csproj.AssemblyReference.cache
+D:\1project\source\repos\unit3_2\unit3_2\obj\Debug\unit3_2.csproj.SuggestedBindingRedirects.cache
+D:\1project\source\repos\unit3_2\unit3_2\obj\Debug\unit3_2.csproj.CoreCompileInputs.cache
+D:\1project\source\repos\unit3_2\unit3_2\obj\Debug\unit3_2.exe
+D:\1project\source\repos\unit3_2\unit3_2\obj\Debug\unit3_2.pdb
